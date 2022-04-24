@@ -1,0 +1,19 @@
+{
+  "name": "ch-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest",
+    "debug": "node src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "isomorphic-fetch": "^3.0.0",
+    "jest": "^27.5.1"
+  }
+}
